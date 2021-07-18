@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @smagidova
 - 👀 I’m interested in web development and finance
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate
+- ✨ I’m looking for a mentor
 - 📫 Instagram @sonia_magidova
 
 <!---
